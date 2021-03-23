@@ -1,8 +1,8 @@
 <h1 align="center">Risk analysis model for prioritizing with response strategies.</h1>
 
 <h5>
-  - Examined and Predicted impact based for global clinical supply chain on external Data impacting Clinical Trials for proactive actions.
-
+  
+- Examined and Predicted impact based for global clinical supply chain on external Data impacting Clinical Trials for proactive actions.
 - Extracted Geographical Information from ArcGIS and Developed a Risk analysis model for prioritizing with response strategies.
 
 - Assist with scripting pipelines for Spatial Data with providing optimal storage in MongoDB Clusters.
